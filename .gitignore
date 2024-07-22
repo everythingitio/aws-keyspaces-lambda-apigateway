@@ -1,0 +1,10 @@
+AmazonRootCA1.pem
+venv
+.env
+.idea
+.DS_Store
+lambda/.dist/
+*.egg-info
+cdk.out
+__pycache__
+tmp
