@@ -41,7 +41,7 @@ $ export AWS_ACCESS_KEY_ID=xxxx
 $ export AWS_SECRET_ACCESS_KEY=yyyy
 $ export AWS_DEFAULT_REGION=us-east-1
 
-$ ./simple-deploy.sh 
+$ ./cdk.sh deploy
 
 ````
 The profile `your_aws_profile` or aws credential needs to have enough privilages to deploy the application.
